@@ -8,18 +8,13 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace EduCafeProyecto._1_login
+namespace EduCafeProyecto
 {
-    public partial class LoginForm : Form
+    public partial class frmDashAdmin : Form
     {
-        public LoginForm()
+        public frmDashAdmin()
         {
             InitializeComponent();
-        }
-
-        private void lblUsuario_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }
