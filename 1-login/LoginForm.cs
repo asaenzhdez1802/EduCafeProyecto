@@ -16,5 +16,10 @@ namespace EduCafeProyecto._1_login
         {
             InitializeComponent();
         }
+
+        private void lblUsuario_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

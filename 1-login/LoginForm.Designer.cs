@@ -230,6 +230,7 @@
             this.lblUsuario.Size = new System.Drawing.Size(92, 28);
             this.lblUsuario.TabIndex = 2;
             this.lblUsuario.Text = "Usuario";
+            this.lblUsuario.Click += new System.EventHandler(this.lblUsuario_Click);
             // 
             // lblSubBienvenido
             // 

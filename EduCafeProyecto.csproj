@@ -130,6 +130,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
@@ -144,6 +145,42 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EDU CAFÉ %281%29 %281%29 %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MenuAdminInicioV.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MenuAdminInicioB.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MenuAdminProductosB.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MenuAdminProovedoresB.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MenuAdminUsersB.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MenuAdminReportesB.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MenuAdminSalirB.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MenuAdminInventarioB.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menu inventario b.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MenuAdminInventarioB1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MenuAdminInventarioB2.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
